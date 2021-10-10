@@ -1,0 +1,23 @@
+{
+  "author": "Jesse Hattabaugh<jessehattabaugh@protonmail.com>",
+  "bugs": {
+    "url": "https://github.com/jessehattabaugh/wixleaflet/issues"
+  },
+  "description": "how to use leaflet in wix",
+  "homepage": "https://github.com/jessehattabaugh/wixleaflet#readme",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "name": "wixleaflet",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessehattabaugh/wixleaflet.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ./public"
+  },
+  "version": "1.0.0",
+  "devDependencies": {
+    "serve": "^12.0.1"
+  }
+}
